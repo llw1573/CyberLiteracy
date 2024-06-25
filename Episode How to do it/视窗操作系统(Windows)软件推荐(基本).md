@@ -39,7 +39,7 @@ Passware Kit Forensic：密码破解工具
 Phantomjs：自动化浏览器测试工具  
 ~*PhotoZoom Pro 7：图片放大工具*~  
 Popcorn-Time：视频软件  
-PotPlayer：全能播放器 
+PotPlayer：全能播放器  
 ~Process Lasso：系统智能调节工具~    
 QuickLook：快速查看工具  
 Rainmeter：桌面美化  
