@@ -72,18 +72,14 @@ Nmap：网络扫描
 Node.js：nodejs 运行开发环境
 Notepad++：文本编辑器
 OneDrive：云存储
-OpenVPN：VPN 链接
 Oracle VM VirtualBox：虚拟机
 Passware Kit Forensic：密码破解工具
-Pcap_DNSProxy：DNS 代理
-PentestBox：渗透工具箱
 Phantomjs：自动化浏览器测试工具
 ~*PhotoZoom Pro 7：图片放大工具*~
 PhpStudy：PHP 快速建站
 Popcorn-Time：视频软件
 Postman：API测试工具
 ~Process Lasso：系统智能调节工具~
-*Proxifier：代理工具*
 QuickLook：快速查看工具
 Rainmeter：桌面美化
 RegistryWorkshop：注册表管理工具
@@ -91,24 +87,19 @@ Resilio Sync：资料同步与分享
 Sandboxie：沙箱运行环境
 Scrcpy：Android投屏
 ScreenToGif：GIF 录制
-ShadowSocks：网络代理工具
 Snipaste UWP：截图
 SpaceSniffer：可视化磁盘空间管理
 SpeedPan：高速百度云下载
 SQLiteStudio：数据库管理
-SSTap-beta：网络代理
 Steam：游戏平台
 Sublime Text 3：文本编辑器
 SumatraPDF：书籍阅读
 SysinternalsSuite：系统工具套件
 TeamViewer：远程管理与协作
-Telegram Desktop UWP：通讯软件
-Tor Browser：tor 网络浏览器
 Typora：Markdown写作
 ~*UltraCompare：文件比较工具*~
 ~*UltraEdit：文本编辑器*~
 ~*UltraISO：ISO 磁盘烧录*~
-V2ray：网络代理
 VeraCrypt：加密软件
 Visual Studio 2017：集成开发环境
 Visual Studio Code：文本编辑器
@@ -128,7 +119,6 @@ Xftp：ftp 与 sftp 传输工具
 XMind：思维导图
 X-Mouse Button Control：鼠标映射
 Xshell 5：远程终端管理
-XX-Net：网络代理
 ~XYplorer：资源管理器~
 Yu Writer：markdown 写作
 按键精灵：模拟按键工具
@@ -148,3 +138,7 @@ Yu Writer：markdown 写作
 ~悦书 PDF 阅读器：书籍阅读~
 
 统计一下共142个，只有9个为付费软件
+
+== 
+鉴于有一些东西不适合/不应当在这里提出，予以移出。
+其次是请给出完全的名字。
