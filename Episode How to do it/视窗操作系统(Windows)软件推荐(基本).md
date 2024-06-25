@@ -2,15 +2,16 @@ Windows软件推荐列表（基础）
 ===
 ### 一些说明
 ### 斜体：付费软件 如*软件名*
-### 删除线：仍推荐但个人已不用或被替代的软件 如~软件名~
 ---
 1.文件管理  
 WinRAR：解压缩  
-
+Everything：快速文件搜索  
 
 
 2.多媒体  
-
+Foobar2000：音频播放器   
+ImageMagick：图像处理软件  
+Imagine：图片压缩  
 
 3.系统优化  
 CCleaner：系统垃圾清理  
@@ -20,6 +21,7 @@ Free Download Manager：多功能下载器（也可下载种子文件）
 硕鼠：视频下载  
 
 5.办公 
+Edge：浏览器  
 
 6.生产力  
 Adobe Acrobat DC（免费版）：PDF 查看
@@ -32,11 +34,6 @@ OneNote：做笔记
 7.杂项   
 AutoHotkey：全局热键    
 Ditto：剪切板历史工具  
-Everything：快速文件搜索  
-Foobar2000：音频播放器   
-Google Chrome：浏览器  
-ImageMagick：图像处理软件  
-Imagine：图片压缩  
 Listary：文件搜索及快速启动  
 LockHunter：文件锁定查看及解锁  
 MacType：字体  
@@ -44,7 +41,6 @@ Memreduct：内存清理软件
 *Microsoft Office：文档办公*  
 ~Microsoft To-Do UWP：todo 管理~  
 *Microsoft Visio：画图*  
-Mozilla Firefox：浏览器   
 *Navicat Premium：数据库管理*  
 ~Newsflow UWP：RSS 阅读器~  
 Notepad++：文本编辑器  
