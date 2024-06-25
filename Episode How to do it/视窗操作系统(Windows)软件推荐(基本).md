@@ -31,7 +31,7 @@ Todesk：远程管理
 XMind：思维导图  
 
 6.生产力  
-Adobe Acrobat DC（免费版）：PDF 查看
+Adobe Acrobat DC（免费版）：PDF 查看  
 *Adobe Photoshop：图片编辑*  
 剪映：视频编辑（发抖音）  
 必剪：视频编辑（发B站）  
@@ -42,7 +42,7 @@ WPS：文档办公
 有道词典：词典  
 有道云笔记：笔记管理  
 
-7.手机模拟器等
+7.手机模拟器等  
 Bluestack(蓝叠）：手机模拟器  
 MUMU(网易)  
 LDPlayer（雷电模拟器）  
