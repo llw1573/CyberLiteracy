@@ -35,7 +35,7 @@ Adobe Acrobat DC（免费版）：PDF 查看
 *Adobe Photoshop：图片编辑*  
 剪映：视频编辑（发抖音）  
 必剪：视频编辑（发B站）  
-Win+S，输入mspaint：画图 
+Win+S，输入mspaint：画图  
 OneNote：做笔记  
 *Microsoft Office：文档办公*  
 WPS：文档办公
