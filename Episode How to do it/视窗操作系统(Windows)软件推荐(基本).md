@@ -4,21 +4,36 @@ Windows软件推荐列表（基础）
 ### 斜体：付费软件 如*软件名*
 ### 删除线：仍推荐但个人已不用或被替代的软件 如~软件名~
 ---
-~BitComet(比特彗星）：bt（种子）下载~  
-7-Zip：解压缩  
-*Adobe Acrobat DC：PDF 查看编辑*  
-*Adobe Photoshop：图片编辑*  
-~*Adobe Premiere Pro：视频编辑*~  
-Annie：视频下载  
-AntSword：Shell管理，类似菜刀  
-Autodesk SketchBook：画画  
-AutoHotkey：全局热键   
+1.文件管理  
+WinRAR：解压缩  
+
+
+
+2.多媒体  
+
+
+3.系统优化  
 CCleaner：系统垃圾清理  
+
+4.文件下载工具  
+Free Download Manager：多功能下载器（也可下载种子文件）  
+硕鼠：视频下载  
+
+5.办公 
+
+6.生产力  
+Adobe Acrobat DC（免费版）：PDF 查看
+*Adobe Photoshop：图片编辑*  
+剪映：视频编辑（发抖音）  
+必剪：视频编辑（发B站）  
+Win+S，输入mspaint：画图 
+OneNote：做笔记  
+
+7.杂项   
+AutoHotkey：全局热键    
 Ditto：剪切板历史工具  
-~Evernote：笔记管理~  
 Everything：快速文件搜索  
-Foobar2000：音频播放器  
-Free Download Manager：多功能下载器  
+Foobar2000：音频播放器   
 Google Chrome：浏览器  
 ImageMagick：图像处理软件  
 Imagine：图片压缩  
@@ -75,4 +90,4 @@ X-Mouse Button Control：鼠标映射
 有道云笔记：笔记管理  
 ~悦书 PDF 阅读器：书籍阅读~  
 
-版本：20240626002900-XiaoHan-Update-1.0.0
+版本：20240626002900-XiaoHan-Update-1.0.0.1-AutoSave
